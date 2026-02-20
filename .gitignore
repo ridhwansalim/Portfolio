@@ -1,0 +1,22 @@
+# Build / output
+dist/
+build/
+out/
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Dependencies (if you add tooling later)
+node_modules/
+.env
+.env.local
+*.log
