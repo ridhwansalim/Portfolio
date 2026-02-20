@@ -1,43 +1,21 @@
-# Ridhwan S | Portfolio
+# Data Science & Analytics Portfolio
 
-Personal portfolio — Data Analyst & Machine Learning Practitioner.
+Welcome! This repository showcases my journey and technical expertise as I transition into a **Data Scientist Manager** role. It includes projects focused on data-driven decision-making and e-commerce optimization.
 
-**Live:** [ridhwansalim.github.io](https://ridhwansalim.github.io/)
+### 🛠 Tech Stack
+* **Languages:** Python (Pandas, NumPy, Scikit-learn)
+* **Visualization:** Matplotlib, Seaborn, Tableau
+* **Tools:** Git/GitHub, SQL, Excel
+* **Specialties:** Machine Learning, Deep Learning, eSales Strategy
 
-## Stack
+### 🚀 Key Projects
+* **Project Name 1:** Brief description of what you did and the result.
+* **Project Name 2:** Brief description of the ML model used.
 
-- HTML, CSS, JavaScript
-- PWA (manifest + service worker)
+### ⚙️ How to Run
+1. Clone the repo: `git clone https://github.com/your-username/your-repo.git`
+2. Install dependencies: `pip install -r requirements.txt`
+3. Run the main script: `python main.py`
 
-## Project structure
-
-```
-Ridhwan S/
-├── index.html          # Main page
-├── manifest.json       # PWA manifest
-├── sw.js               # Service worker
-├── README.md
-├── LICENSE
-└── assets/
-    ├── css/
-    │   └── style.css
-    ├── js/
-    │   └── script.js
-    └── images/         # Icons, logos, profile images
-```
-
-## Run locally
-
-Open `index.html` in a browser, or use a local server:
-
-```bash
-# Python
-python -m http.server 8080
-
-# Node (npx)
-npx serve .
-```
-
-## License
-
-MIT
+---
+*Currently working at Johns Umbrella Mart | Based in Alappuzha.*
