@@ -3,7 +3,7 @@
 Welcome to the repository for my professional portfolio! This space showcases my technical expertise and continuous journey as I advance toward a **Data Scientist Manager** role. My focus lies in leveraging data to drive strategic decision-making, build predictive models, and optimize e-commerce performance.
 
 ### 🌐 Live Portfolio
-**Explore my interactive portfolio website here:** 👉 **[ridhwansalim.github.io/Portfolio](https://ridhwansalim.github.io/Portfolio/)**
+**[👉 Click here to view my interactive portfolio](https://ridhwansalim.github.io/Portfolio/)**
 
 ---
 
