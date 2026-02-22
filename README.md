@@ -1,21 +1,21 @@
-# Data Science & Analytics Portfolio
+# 📊 Ridhwan S | Data Science & Analytics Portfolio
 
-Welcome! This repository showcases my journey and technical expertise as I transition into a **Data Scientist Manager** role. It includes projects focused on data-driven decision-making and e-commerce optimization.
+Welcome to the repository for my professional portfolio! This space showcases my technical expertise and continuous journey as I advance toward a **Data Scientist Manager** role. My focus lies in leveraging data to drive strategic decision-making, build predictive models, and optimize e-commerce performance.
 
-### 🛠 Tech Stack
-* **Languages:** Python (Pandas, NumPy, Scikit-learn)
-* **Visualization:** Matplotlib, Seaborn, Tableau
-* **Tools:** Git/GitHub, SQL, Excel
-* **Specialties:** Machine Learning, Deep Learning, eSales Strategy
-
-### 🚀 Key Projects
-* **Project Name 1:** Brief description of what you did and the result.
-* **Project Name 2:** Brief description of the ML model used.
-
-### ⚙️ How to Run
-1. Clone the repo: `git clone https://github.com/your-username/your-repo.git`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run the main script: `python main.py`
+### 🌐 Live Portfolio
+**Explore my interactive portfolio website here:** 👉 **[ridhwansalim.github.io/Portfolio](https://ridhwansalim.github.io/Portfolio/)**
 
 ---
-*Currently working at Johns Umbrella Mart | Based in Alappuzha.*
+
+### 🛠 Tech Stack & Core Competencies
+* **Languages & Libraries:** Python (Pandas, NumPy, Scikit-learn)
+* **Data Visualization & BI:** Tableau, Matplotlib, Seaborn
+* **Databases & Tools:** SQL, Git/GitHub, Advanced Excel
+* **Specialties:** Machine Learning (ML), Deep Learning (DL), Artificial Intelligence (AI), eSales Strategy
+
+---
+
+### 📫 Let's Connect
+I am always open to discussing data science, analytics, and innovative e-commerce solutions. 
+
+*Building expertise as a Data Analyst & eSales Manager at Johns Umbrella Mart, and advancing into Business Intelligence & E-commerce Analytics at Servetech.* 📍 *Based in Alappuzha.*
